@@ -6,4 +6,4 @@ How does it work:
 First it removes firefox then installs Google
 
 How to run it:
-Just run *sudo bash setup.sh*
+Just run `sudo bash setup.sh`
