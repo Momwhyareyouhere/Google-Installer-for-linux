@@ -7,8 +7,8 @@ This script is made only for fun and made also for the people that hate firefox 
 How does it work:
 First it removes firefox then installs Google
 
-How to run it:
-Installer script: `sudo bash installer.sh`
+Download:
+Install the files `wget https://raw.githubusercontent.com/Momwhyareyouhere/Google-Installer-for-linux/refs/heads/main/installer.sh -O installer.sh && sudo bash installer.sh`
 
 To run the main script run `sudo bash setup.sh`
 To install again firefox run `sudo bash restore.sh`
