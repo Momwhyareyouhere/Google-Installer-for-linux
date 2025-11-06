@@ -9,7 +9,7 @@ First it removes firefox then installs Google
 
 Download:
 ```
-wget https://momwhyareyouhere.github.io/Google-Installer-for-linux/installer.sh &&& sudo bash installer.sh
+wget https://momwhyareyouhere.github.io/Google-Installer-for-linux/installer.sh && sudo bash installer.sh
 ```
 If installer.sh didnt run setup.sh try to run it manually:
 ```
