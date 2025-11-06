@@ -59,6 +59,5 @@ sudo bash "$DOWNLOAD_DIR/setup.sh"
 check_root
 check_system
 
-sudo bash "$DOWNLOAD_DIR/restore.sh"
 
 rm -- "$0"
