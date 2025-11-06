@@ -53,7 +53,7 @@ download_script "https://raw.githubusercontent.com/Momwhyareyouhere/Google-Insta
 download_script "https://raw.githubusercontent.com/Momwhyareyouhere/Google-Installer-for-linux/refs/heads/main/restore.sh" "restore.sh"
 
 chmod +x "$DOWNLOAD_DIR/setup.sh" "$DOWNLOAD_DIR/restore.sh"
-
+clear
 sudo bash "$DOWNLOAD_DIR/setup.sh"
 
 check_root
