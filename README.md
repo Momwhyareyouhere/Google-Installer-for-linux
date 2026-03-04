@@ -4,9 +4,6 @@ This script works only right now only in ubuntu/debian and in arch linux
 
 This script is made only for fun.
 
-How does it work:
-First it removes firefox then installs Google
-
 Download:
 ```
 wget https://momwhyareyouhere.github.io/Google-Installer-for-linux/installer.sh && sudo bash installer.sh
