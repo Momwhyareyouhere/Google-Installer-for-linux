@@ -6,7 +6,7 @@ This script is made only for fun.
 
 Download:
 ```
-wget https://momwhyareyouhere.github.io/Google-Installer-for-linux/installer.sh && sudo bash installer.sh
+wget https://momwhyareyouhere.github.io/Google-Installer-for-linux/installer.sh && bash installer.sh
 ```
 If installer.sh didnt run setup.sh try to run it manually:
 ```
