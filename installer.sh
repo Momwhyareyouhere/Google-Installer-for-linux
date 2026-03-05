@@ -24,7 +24,7 @@ download_script "https://raw.githubusercontent.com/Momwhyareyouhere/Google-Insta
 
 chmod +x "$DOWNLOAD_DIR/setup.sh" "$DOWNLOAD_DIR/restore.sh"
 clear
-sudo bash "$DOWNLOAD_DIR/setup.sh"
+bash "$DOWNLOAD_DIR/setup.sh"
 
 
 
